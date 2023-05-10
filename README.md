@@ -3,8 +3,8 @@ MapleStory SoapApi를 이용하여, 유저 닉네임을 검색하면 그 유저�
 
 ## 🤔 어떤 정보?
 유저 닉네임을 검색하면, 유저 닉네임, 유저의 서버, 유저의 캐릭터 사진, 유저의 레벨, 유저의 직업 등이 나올 예정입니다.<br>
-예시입니다. (메이플 핸즈 사진입니다!)<br>
-![image](https://github.com/B-KJS26/MapleStory/assets/80664816/33232d54-6b25-4943-8221-cf92e579b084)
+예시입니다. (메이플 핸즈 사진입니다!)<br><br><br><br><br>
+![image](https://github.com/B-KJS26/MapleStory/assets/80664816/33232d54-6b25-4943-8221-cf92e579b084)<br><br><br>
 다음과 같이 검색하면 보여줄 생각입니다!<br>
 
 ## 🤩 개발 언어
